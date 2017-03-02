@@ -1,0 +1,8 @@
+defencoding utf8
+defscrollback 10000
+caption always "%{.KW} %-w%{.mW}[%n] %t%{.KW}%+w"
+hardstatus alwayslastline "%{R}[ %{w}%1` %{R}]%=%{M}%e %{G}%H %{Y} %c %{R} %d/%m/%Y %{K} Load: %l %{w}"
+shelltitle '$ |bash'
+altscreen on
+startup_message off 
+bell_msg ""
