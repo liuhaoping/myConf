@@ -1,3 +1,6 @@
+This is automatically setting your screenrc, vimrc by :
+
+    $sh install_my_setting.sh 
 
 # Reference 
 ## vimrc turotial
@@ -6,5 +9,5 @@
 ## NerdTree
     * https://github.com/scrooloose/nerdtree
 
-## vim sublim theme   
+## vim sublime theme   
     * https://github.com/sickill/vim-monokai

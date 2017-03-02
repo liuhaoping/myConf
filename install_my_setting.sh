@@ -2,7 +2,6 @@
 
 echo "Copy vimrc into your home directory..."
 cp vimrc ~/.vimrc
-# Git pull vim sublim theme
 echo "Git pull sublim theme"
 git clone https://github.com/sickill/vim-monokai.git
 cd vim-monokai/colors && mkdir ~/.vim/colors/ &&cp monokai.vim ~/.vim/colors/
