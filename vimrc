@@ -24,8 +24,6 @@ colorscheme monokai
 
 " key maping
 :inoremap ( ()<Esc>i
-:inoremap " ""<Esc>i
-:inoremap ' ''<Esc>i
 :inoremap [ []<Esc>i
 :inoremap {<CR> {<CR>}<Esc>ko
 :inoremap {{ {}<ESC>i
